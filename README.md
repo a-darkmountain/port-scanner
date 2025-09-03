@@ -62,4 +62,4 @@ git clone https://github.com/a-darkmountain/port-scanner.git
 
 cd port-scanner
 
-python3 Port-Scanner.py
+python Port-Scanner.py
