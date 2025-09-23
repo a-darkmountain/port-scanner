@@ -58,6 +58,8 @@ The purpose of this project is to practice cybersecurity, improve Python skills,
 
 pip3 install colorama
 
+pip install rich
+
 git clone https://github.com/a-darkmountain/port-scanner.git
 
 cd port-scanner
