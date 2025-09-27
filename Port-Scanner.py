@@ -70,7 +70,7 @@ def display_banner():
 """
     print(banner)  # نمایش بنر ASCII / Show ASCII banner
     print(Fore.CYAN + "Creator: ARASH-SAVAK")  # نام سازنده / Author
-    print(Fore.YELLOW + "Website: a-darkmountain.github.io/wizard-website/")  # لینک وبسایت / Website
+    print(Fore.YELLOW + "Website: https://a-darkmountain.github.io/web-arash/")  # لینک وبسایت / Website
     print(Fore.MAGENTA + "GitHub: a-darkmountain")  # لینک گیت‌هاب / GitHub
     print(Style.RESET_ALL)
     print(Fore.BLUE + "="*60 + "\n")  # خط جداکننده / Separator line
@@ -134,3 +134,4 @@ if __name__ == "__main__":
     port_scanner()
 
 payan = input()  # توقف برای بستن برنامه توسط کاربر / Pause before exit
+
